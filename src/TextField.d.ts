@@ -24,7 +24,9 @@ declare namespace TextField {
         /** Makes the TextField fullwidth. */
         fullwidth?: boolean,
         /** Makes the TextField have a visual box. */
-        box?: boolean
+        box?: boolean,
+        /** Outline the TextField. */
+        outlined?: boolean
     }
 }
 
